@@ -1,6 +1,6 @@
 {
   "name": "react-clamp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Multiline text ellipsis for react",
   "main": "src/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "clamper": "1.0.2"
   },
   "peerDependencies": {
-    "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
   }
 }
